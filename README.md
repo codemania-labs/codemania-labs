@@ -1,16 +1,37 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**codemania-labs/codemania-labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Code Mania Labs
 
-Here are some ideas to get you started:
+### Java developer · Minecraft modding · small experiments
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Building ideas one project at a time.*
+
+[Projects](#projects) · [Tech](#toolbox)
+
+</div>
+
+---
+
+## About
+
+I build Minecraft Java mods and explore software through hands-on projects. I like turning small ideas into things you can play with, run, and improve.
+
+## Projects
+
+| Project | What it is |
+| --- | --- |
+| [descendreMod](https://github.com/codemania-labs/descendreMod) | A Minecraft mod project. |
+| [prograMC](https://github.com/codemania-labs/prograMC) | Minecraft and Java experiments. |
+| [programmation](https://github.com/codemania-labs/programmation) | Java practice and personal code. |
+
+## Toolbox
+
+`Java` · `Minecraft modding` · `GitHub`
+
+---
+
+<div align="center">
+
+*Thanks for stopping by.*
+
+</div>
