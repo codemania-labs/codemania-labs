@@ -15,7 +15,7 @@
 ## About
 
 I build Minecraft Java mods and explore software through hands-on projects. I like turning small ideas into things you can play with, run, and improve.
-
+I also design functional office open-source projects for high integration.
 ## Projects
 
 | Project | What it is |
